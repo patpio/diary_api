@@ -10,9 +10,12 @@ Techs:
 - authentication based on dj rest auth
 - token authentication
 - email confirmation
+- open Api support (Swagger and Redoc)
 
 Frameworks:
 - django
 - django REST framework
 - django allauth
 - dj rest auth
+
+- drf-yasg
