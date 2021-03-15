@@ -13,6 +13,7 @@ dj-rest-auth = "==2.1.3"
 pyyaml = "*"
 uritemplate = "*"
 drf-yasg = "*"
+django-environ = "*"
 
 [requires]
 python_version = "3.8"
